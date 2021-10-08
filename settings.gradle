@@ -1,0 +1,2 @@
+rootProject.name = "VIDEO TO IMAGE"
+include ':app'
